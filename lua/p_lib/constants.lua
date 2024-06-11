@@ -8,6 +8,7 @@ PLib.Constants.Colors = {
     ["hoverBlue"] = Color(58, 88, 119),
     ["red"] = Color(197, 42, 37),
     ["green"] = Color(37, 197, 37),
+    ["orange"] = Color(197,152,37)
 }
 
 PLib.Constants.SGroups = {
